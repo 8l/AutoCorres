@@ -1,0 +1,24 @@
+Core Development Team
+---------------------
+
+    David Greenaway (inactive)
+
+    Japheth Lim <japheth.lim@nicta.com.au>
+
+Contributions
+-------------
+
+    Lars Noschinski <noschinl@in.tum.de>
+
+        "owhile" definitions and related rules, as well as many other
+        contributions to the proof libraries.
+
+    Matthew Fernandez <matthew.fernandez@nicta.com.au>
+
+        Proofs for a memcpy implementation.
+        See autocorres/tests/examples/Memcpy.thy.
+
+    Rohan Jacob-Rao (inactive)
+
+        Proof for a quicksort implementation.
+        See autocorres/tests/examples/Quicksort.thy.
